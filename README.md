@@ -32,6 +32,16 @@ Este proyecto es una aplicación Node.js desarrollada en TypeScript para monitor
    npm install
    ```
 
+3. Clonar el archivo .env.template a .env
+4. Configurar las variables de entorno
+
+```
+PORT=3000
+MAILER_EMAIL=
+MAILER_SECRET_KEY=
+PROD=false
+```
+
 ## Scripts
 
 - **Desarrollo:**
