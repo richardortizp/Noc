@@ -83,7 +83,7 @@ PROD=false
 
 ## Configuración
 
-- **.gitignore:** Ignora `node_modules`, `.env` y `dist/`.
+- **.gitignore:** Ignora `node_modules`, `.env`, `logs/` y `dist/`.
 - **nodemon.json:** Configuración para desarrollo con recarga automática.
 - **tsconfig.json:** Configuración de TypeScript.
 

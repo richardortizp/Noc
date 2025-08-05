@@ -17,6 +17,7 @@
     "@swc-node/register": "^1.10.10",
     "@types/jest": "^30.0.0",
     "@types/node": "^24.1.0",
+    "@types/nodemailer": "^6.4.17",
     "create-jest": "^30.0.5",
     "jest": "^30.0.5",
     "nodemon": "^3.1.10",
@@ -32,6 +33,7 @@
     "dotenv": "^17.2.1",
     "env-var": "^7.5.0",
     "express": "^5.1.0",
-    "node-cron": "^4.2.1"
+    "node-cron": "^4.2.1",
+    "nodemailer": "^7.0.5"
   }
 }
